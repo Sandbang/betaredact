@@ -1,7 +1,7 @@
 use stylist::{yew::styled_component, Style};
 use yew::{html, Html};
 use crate::components::centuries::built::Built;
-use crate::components::centuries::navi::Navi;
+use crate::components::legion::navi::Navi;
 use crate::components::cohort::post::Post;
 
 
@@ -15,7 +15,7 @@ pub fn home() -> Html {
     let stylesheet = Style::new(STYLE_FILE);
     html!{
         <body  class = {stylesheet.unwrap()}>
-            <Navi />
+            <div><Navi /></div>
             <Built />
             <ul>
                 <li><Post title = {title} description = {description} author = {author} /></li>

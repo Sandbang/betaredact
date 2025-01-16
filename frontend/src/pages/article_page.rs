@@ -1,7 +1,7 @@
 use stylist::{yew::styled_component, Style};
 use yew::{html, Html, Properties};
 use crate::components::centuries::built::Built;
-use crate::components::centuries::navi::Navi;
+use crate::components::legion::navi::Navi;
 
 #[derive(Properties, PartialEq)]pub struct Props {
     pub title: String,

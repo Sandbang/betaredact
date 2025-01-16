@@ -9,9 +9,13 @@
     width: 34%;
 }
 h1 {
+
     text-align: center;
     font-size: 500%;
     padding-bottom: 50px
+}
+.navi {
+
 }
 .Built {
     position: fixed;
@@ -20,8 +24,9 @@ h1 {
     font-size: 85%
 }
 .article {
+    min-width: 600px;
     margin: auto;
-    width: 34%;
+    width: 37%;
     outline: 1px solid black;
     padding: 10px;
 }
@@ -51,4 +56,12 @@ ul li {
 .content h3{
     font-weight: normal;
     text-align: right;
+}
+.settings {
+    position: fixed;
+    right: 0;
+    top: 0;
+    font-size: 85%;
+    padding-right: 40px;
+    padding-top: 45px;
 }
