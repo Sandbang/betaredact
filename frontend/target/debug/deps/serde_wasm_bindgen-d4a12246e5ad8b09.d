@@ -1,0 +1,9 @@
+C:\Users\Michael\MichaelRust\projects\betaredact\target\debug\deps\libserde_wasm_bindgen-d4a12246e5ad8b09.rmeta: C:\Users\Michael\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-wasm-bindgen-0.6.5\src\lib.rs C:\Users\Michael\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-wasm-bindgen-0.6.5\src\de.rs C:\Users\Michael\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-wasm-bindgen-0.6.5\src\error.rs C:\Users\Michael\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-wasm-bindgen-0.6.5\src\ser.rs C:\Users\Michael\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-wasm-bindgen-0.6.5\src\../README.md
+
+C:\Users\Michael\MichaelRust\projects\betaredact\target\debug\deps\serde_wasm_bindgen-d4a12246e5ad8b09.d: C:\Users\Michael\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-wasm-bindgen-0.6.5\src\lib.rs C:\Users\Michael\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-wasm-bindgen-0.6.5\src\de.rs C:\Users\Michael\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-wasm-bindgen-0.6.5\src\error.rs C:\Users\Michael\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-wasm-bindgen-0.6.5\src\ser.rs C:\Users\Michael\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-wasm-bindgen-0.6.5\src\../README.md
+
+C:\Users\Michael\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-wasm-bindgen-0.6.5\src\lib.rs:
+C:\Users\Michael\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-wasm-bindgen-0.6.5\src\de.rs:
+C:\Users\Michael\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-wasm-bindgen-0.6.5\src\error.rs:
+C:\Users\Michael\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-wasm-bindgen-0.6.5\src\ser.rs:
+C:\Users\Michael\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde-wasm-bindgen-0.6.5\src\../README.md:
