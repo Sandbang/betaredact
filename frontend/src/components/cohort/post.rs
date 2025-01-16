@@ -15,7 +15,7 @@ const STYLE_FILE: &str = include_str!("../../main.css");
 #[styled_component(Post)]
 pub fn post(props: &Props) -> Html {
     let stylesheet = Style::new(STYLE_FILE);
-    let link = &props.title.replace(" ", "-");
+    let link = "article/".to_owned() + &props.title.replace(" ", "-");
     html!{
         <>
             <a href = {link.clone()}>

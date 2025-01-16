@@ -13,7 +13,6 @@ use crate::components::legion::navi::Navi;
 const STYLE_FILE: &str = include_str!("../main.css");
 #[styled_component(ArticlePage)]
 pub fn article_page(props: &Props) -> Html {
-    let cream = "<h1>AHHHHH</h1>";
     let stylesheet = Style::new(STYLE_FILE);
     html!{ 
         <body  class = {stylesheet.unwrap()}>
