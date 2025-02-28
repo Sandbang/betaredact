@@ -1,6 +1,6 @@
 {
     "rewrites":  [
       {"source": "/article/(.*)", "destination": "/"},
-      {"source": "/threebodyproblem", "destination": "src/pages/webcompiled/simulation.html"}
+      {"source": "src/pages/webcompiled/simulation.html", "destination": "/threebodyproblem"}
     ]
 }
