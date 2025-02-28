@@ -15,7 +15,7 @@ pub fn navi() -> Html {
         <>
             <div class = {stylesheet.unwrap()}>
                 <div class = "navi">
-                    <a href = {"/"}><h1 class = {"center"}>{"β"} <i><sub>{"redaction"}</sub></i> </h1></a>
+                    <a href = {"/"}><h1 class = {"center"}>{"β"} <sub>{"redaction"}</sub> </h1></a>
                 </div>
             </div>
         </>
