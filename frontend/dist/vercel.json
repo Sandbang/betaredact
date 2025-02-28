@@ -1,4 +1,7 @@
 {
+    "redirects":[
+      {"source": "/threebodyproblem", "destination": "/webcompiled/simulation.html", "permanent": false}
+    ],
     "rewrites":  [
       {"source": "/article/(.*)", "destination": "/"}
     ]
